@@ -1,0 +1,7 @@
+
+// This is for $bash terminal
+STEP 1 - WRITE CODE IN .C EXTENTION
+STEP 2 - RUN THIS  (gcc index.c -o executable)
+STEP 3 - A executable.exe FILE WILL CREATE 
+STEP 4 -  ./executable.exe
+ Done output will be on terminal 
